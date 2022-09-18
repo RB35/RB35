@@ -43,7 +43,7 @@
 
 
 ### What I'm working on:
-Secret emulation thing (You'll see in V1)
+Microck!
 
 
 
