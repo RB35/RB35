@@ -17,6 +17,7 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![RasPi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![C#](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
+<img alt="Godot Engine" src="https://img.shields.io/badge/GODOT%20-%23FFFFFF.svg?&style=for-the-badge&logo=godot-engine"/>
 
 
 
