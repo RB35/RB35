@@ -25,11 +25,6 @@
 
 
 
-### Stats
-
-![MY Github Stats](https://github-readme-stats.vercel.app/api?username=RB35&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RB35&langs_count=8)
-
 
 ### My goto Hosting providers / PaaS
 ![Firebase](https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase)
